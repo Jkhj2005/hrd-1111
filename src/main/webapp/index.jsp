@@ -37,6 +37,9 @@ a{color: white;}
 4.회원정보 입력프로그램을 작성한다
 5.회원정보 죄회 프로그램을 작성한다
 6.회원매출정보 조회프로그램을 작성한다.
+7.
+8.
+9.
 </pre>
 </section>
 <footer>HRDKOREA copyright</footer>
